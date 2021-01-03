@@ -1,0 +1,87 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<equipo>
+	<jugador id="1235">
+		<nombre>Hernán</nombre>
+		<apellido>Barcos</apellido>
+		<posicion>Delantero</posicion>
+		<edad>35</edad>
+		<partidosJugados>34</partidosJugados>
+	</jugador>
+	<jugador id="5412">
+		<nombre>Cristiano</nombre>
+		<apellido>Ronaldo</apellido>
+		<posicion>Delantero</posicion>
+		<edad>34</edad>
+		<partidosJugados>40</partidosJugados>
+	</jugador>
+	<jugador id="0912">
+		<nombre>Lionel</nombre>
+		<apellido>Messi</apellido>
+		<posicion>Delantero</posicion>
+		<edad>34</edad>
+		<partidosJugados>50</partidosJugados>
+	</jugador>
+	<jugador id="8712">
+		<nombre>Jose</nombre>
+		<apellido>Delgado</apellido>
+		<posicion>Defensa</posicion>
+		<edad>27</edad>
+		<partidosJugados>10</partidosJugados>
+	</jugador>
+	<jugador id="6612">
+		<nombre>Lucas</nombre>
+		<apellido>Torreira</apellido>
+		<posicion>Mediocampista</posicion>
+		<edad>25</edad>
+		<partidosJugados>3</partidosJugados>
+	</jugador>
+	<jugador id="9991">
+		<nombre>Federico</nombre>
+		<apellido>Valverde</apellido>
+		<posicion>Mediocampista</posicion>
+		<edad>24</edad>
+		<partidosJugados>6</partidosJugados>
+	</jugador>
+	<jugador id="4412">
+		<nombre>Maximo</nombre>
+		<apellido>Banguera</apellido>
+		<posicion>Portero</posicion>
+		<edad>37</edad>
+		<partidosJugados>4</partidosJugados>
+	</jugador>
+	<jugador id="7412">
+		<nombre>Andres</nombre>
+		<apellido>Iniesta</apellido>
+		<posicion>Mediocampista</posicion>
+		<edad>32</edad>
+		<partidosJugados>5</partidosJugados>
+	</jugador>
+	<jugador id="1212">
+		<nombre>Angel</nombre>
+		<apellido>Di Maria</apellido>
+		<posicion>Extremo Derecho</posicion>
+		<edad>35</edad>
+		<partidosJugados>12</partidosJugados>
+	</jugador>
+	<jugador id="5555">
+		<nombre>Keylor</nombre>
+		<apellido>Navas</apellido>
+		<posicion>Portero</posicion>
+		<edad>35</edad>
+		<partidosJugados>3</partidosJugados>
+	</jugador>
+	<jugador id="4512">
+		<nombre>Jordi</nombre>
+		<apellido>Alba</apellido>
+		<posicion>Lateral Izquierdo</posicion>
+		<edad>29</edad>
+		<partidosJugados>9</partidosJugados>
+	</jugador>
+	<jugador id="9811">
+		<nombre>Nicolas</nombre>
+		<apellido>Dominguez</apellido>
+		<posicion>Mediocampista</posicion>
+		<edad>22</edad>
+		<partidosJugados>17</partidosJugados>
+	</jugador>
+</equipo>

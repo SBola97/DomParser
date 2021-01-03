@@ -1,0 +1,7 @@
+D:\Códigos C#\Actividad14CS_6616-6617\Actividad14CS_6616-6617\bin\Debug\Actividad14CS_6616-6617.exe.config
+D:\Códigos C#\Actividad14CS_6616-6617\Actividad14CS_6616-6617\bin\Debug\Actividad14CS_6616-6617.exe
+D:\Códigos C#\Actividad14CS_6616-6617\Actividad14CS_6616-6617\bin\Debug\Actividad14CS_6616-6617.pdb
+D:\Códigos C#\Actividad14CS_6616-6617\Actividad14CS_6616-6617\obj\Debug\Actividad14CS_6616-6617.csprojAssemblyReference.cache
+D:\Códigos C#\Actividad14CS_6616-6617\Actividad14CS_6616-6617\obj\Debug\Actividad14CS_6616-6617.csproj.CoreCompileInputs.cache
+D:\Códigos C#\Actividad14CS_6616-6617\Actividad14CS_6616-6617\obj\Debug\Actividad14CS_6616-6617.exe
+D:\Códigos C#\Actividad14CS_6616-6617\Actividad14CS_6616-6617\obj\Debug\Actividad14CS_6616-6617.pdb
